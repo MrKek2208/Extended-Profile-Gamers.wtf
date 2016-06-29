@@ -2,8 +2,10 @@
 // @name         Gamers.wtf Extended Profile
 // @namespace    http://mrkek.ovh
 // @version      0.1
-// @description  try to take over the world!
+// @description  Extend the Profile of every User on Gamers.wtf
 // @author       MrKek | Alex
+// @updateURL    https://github.com/MrKek2208/Extended-Profile-Gamers.wtf/raw/master/Gamers.wtf%20Extended%20Profile.user.js
+// @downloadURL  https://github.com/MrKek2208/Extended-Profile-Gamers.wtf/raw/master/Gamers.wtf%20Extended%20Profile.user.js
 // @match        https://gamers.wtf/board/user/*
 // @require      https://cdn.jsdelivr.net/autolinker/0.27.0/Autolinker.min.js
 // @icon         https://gamers.wtf/assets/img/logo/logo_128.png
